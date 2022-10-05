@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->🔭 I’m currently working on ncu
-
--->🌱I’m currently learning civil engineer
+-->
+🔭 I’m currently working on ncu
+🌱I’m currently learning civil engineer
